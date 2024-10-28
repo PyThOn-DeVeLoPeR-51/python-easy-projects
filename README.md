@@ -1,1 +1,2 @@
-# python-easy-projects
+# Python-Easy-Projects
+These codes are for beginners
